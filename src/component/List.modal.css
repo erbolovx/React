@@ -1,0 +1,8 @@
+.style{
+    margin-top: 20px;
+    border:1px solid red;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 30px;
+}
